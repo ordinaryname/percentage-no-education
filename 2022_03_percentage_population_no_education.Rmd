@@ -1,0 +1,30 @@
+---
+title: "Percentage of population with no education"
+author: "Raymond Mutyaba"
+date: "3/21/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Which countries have shown the most improvement?
+
+This report will examine the countries with the highest percentage of residents with no education. Then it will reveal which countries have made the most and least improvement. For more details on this and other projects I have worked on visit <https://ordinaryname.github.io/>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
